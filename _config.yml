@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Eden Blog
+title: Eden 博客
 subtitle: 路漫漫其修远兮,吾将上下而求索
 description:
 author: Eden
@@ -12,7 +12,7 @@ timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: https://eden1998.github.io
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:

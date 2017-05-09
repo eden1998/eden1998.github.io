@@ -19,7 +19,7 @@ customize:
         gravatar: # Gravatar email address, if you enable Gravatar, your avatar config will be overriden
         author: Eden
         author_title: 为者常成，行者常至
-        location: Guangdong, China
+        location: 广东
         follow: https://github.com/eden1998
     highlight: monokai
     sidebar: right # sidebar position, options: left, right
