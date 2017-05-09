@@ -18,7 +18,7 @@ customize:
         avatar: css/images/avatar.png
         gravatar: # Gravatar email address, if you enable Gravatar, your avatar config will be overriden
         author: Eden
-        author_title: Web Developer & Designer
+        author_title: 为者常成，行者常至
         location: Guangdong, China
         follow: https://github.com/eden1998
     highlight: monokai
